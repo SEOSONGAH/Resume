@@ -169,11 +169,7 @@
         \kern 5.0 pt%
         \AND%
         \kern 5.0 pt%
-        \mbox{\hrefWithoutArrow{tel:+82-10-2530-5578}{+82 (10)/2530 5578}}%
-        \kern 5.0 pt%
-        \AND%
-        \kern 5.0 pt%
-        \mbox{\hrefWithoutArrow{https://github.com/yourusername}{github.com/yourusername}}%
+        \mbox{\hrefWithoutArrow{https://github.com/SEOSONGAH}{github.com/SEOSONGAH}}%
         \\61-12 Sinseongnam-ro
         \kern 5.0 pt%
         \AND%
